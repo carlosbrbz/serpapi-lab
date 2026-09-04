@@ -113,8 +113,14 @@ repositorio.
 MIT
 
 ---
+## Fuentes
+ 
+Toda la documentación consultada, con la fecha de consulta y el detalle de qué dato sale de
+cada página: [Fuentes y referencias](https://github.com/carlosbrbz/serpapi-lab/edit/main/FUENTES.md).
 
 **Artículo completo:** [¿Qué está diciendo la IA de Google sobre tu marca?](https://carlosbarboza.org/post/ai-overview-google-marca)
 
 **Carlos Barboza** — Sistemas, infraestructura y datos de búsqueda
 [carlosbarboza.org](https://carlosbarboza.org)
+
+
